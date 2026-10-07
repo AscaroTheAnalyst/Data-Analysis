@@ -1,5 +1,6 @@
 # Data-Analysis
-Benvenuto/a. In questa Repository puoi trovare tutti i miei progetti di Data Analysis che ho portato avanti negli anni utilizzando Python e altri tools.
+Benvenuto/a.
+In questa Repository puoi trovare tutti i miei progetti di Data Analysis che ho portato avanti negli anni utilizzando Python e altri tools.
 
 I dati provengono tutti da fonti ufficiali e aperte (Open Data).
 
