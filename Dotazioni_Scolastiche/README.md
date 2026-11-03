@@ -12,7 +12,7 @@ Quante scuole primarie statali hanno un locale mensa, e quanto cambia da provinc
 - Tra le province, la quota di primarie senza locale mensa va dal 2% circa di Prato al 96,7% di Ragusa.
 - Il notebook contiene anche i controlli fatti sul valore di Ragusa, il più alto.
 
-Grafico: (https://public.flourish.studio/visualisation/30425283/)
+![Grafico a bolle: quota di scuole primarie statali senza locale mensa, per provincia](mensa_primarie_province.png)
 
 **Attenzione:** i dati dicono se l'edificio ha un *locale* adibito a mensa, non se i bambini mangiano a scuola. Vedi i limiti in fondo.
 
@@ -23,9 +23,8 @@ Grafico: (https://public.flourish.studio/visualisation/30425283/)
 ├── README.md
 ├── [nome-notebook].ipynb
 ├── mensa_primarie_province.csv
-└── data/
-    ├── EDIANAGRAFESTA202120242520250806.csv
-    └── EDIAMBFUNZSTA202120242520250806.csv
+├── EDIANAGRAFESTA202120242520250806.csv
+└── EDIAMBFUNZSTA202120242520250806.csv
 ```
 
 ## Dati
@@ -74,4 +73,4 @@ Alla fine devono risultare 104 province, 14.513 primarie e 6.556 senza locale me
 
 ## Licenza
 
-Codice: [licenza che hai scelto, ad esempio MIT]. Dati: IODL 2.0, fonte MIM.
+Codice: MIT. Dati: IODL 2.0, fonte MIM.
