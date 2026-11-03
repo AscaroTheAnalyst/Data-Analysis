@@ -21,7 +21,7 @@ Quante scuole primarie statali hanno un locale mensa, e quanto cambia da provinc
 ```
 [nome-cartella]/
 ├── README.md
-├── [nome-notebook].ipynb
+├── Analisi_mense_scuole_primarie.ipynb
 ├── mensa_primarie_province.csv
 ├── EDIANAGRAFESTA202120242520250806.csv
 └── EDIAMBFUNZSTA202120242520250806.csv
